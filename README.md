@@ -1,3 +1,3 @@
 # technical_itches
 
-Préparation des workshops Alchemist
+Préparation des workshops Alqemist
