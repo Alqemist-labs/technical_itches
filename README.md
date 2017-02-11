@@ -48,6 +48,26 @@ Il suffit de créer une issue, avec quelques lignes de description, et de le met
 - Un label de duration
 - Un label de Type
 
+## Enregistrer une session
+C'est le presenter du workshop qui doit être en charge de l'enregistrement.
+
+#### MacOSX
+Sous MacOS, le plus simple est de passer par Quicktime.
+Via `Fichier -> Nouvel enregistrement de l'écran` il est possible d'enregistrer l'écran du presenter et son microphone.
+![Recording via Quicktime](/images/recording-osx-01.png)
+
+**Il est également possible d'enregistrer les voix des autres participants en enregistrant le son du système:**
+- [Télécharger le .dmg de Soundflower](https://github.com/mattingalls/Soundflower/releases) (version modifiée pour Yosemite/Mavericks/El Capitan/Sierra)
+- Redémarrer
+- Ouvrir la configuration audio et MIDI du système (`/Applications/Utilities/Audio MIDI Setup.app`)
+- Créer un "Périphérique agrégé", et cocher votre input audio et Soundflower (2ch)
+![Aggregate Device](/images/recording-osx-02.png)
+- Créer un "Périphérique à sortie multiple", et cocher votre output audio et Soundflower (2ch)
+![Multi-Output Device](/images/recording-osx-03.png)
+- Dans les préférences de son du système, régler la Sortie à "Périphérique à sortie multiple"
+- Enregistrer avec Quicktime comme d'habitude, en choisissant "Périphérique aggrégé" comme microphone
+
+**NOTE:** cette manip n'impacte pas l'utilisation normale de votre input / output audio 
 
 ## Outils
 vidéo + partage d'écran : https://appear.in/ à tester
