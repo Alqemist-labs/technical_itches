@@ -1,6 +1,6 @@
 # technical_itches
-
 Préparation et suivi des workshops weekly d'Alqemist.
+
 
 ## TLDR;
 Alqemist organise **chaque Vendredi à 10h** des workshops internes, dans le but de :
@@ -12,11 +12,21 @@ Ce Repo (et sa [board](#boards)) a pour objectif d'organiser ces sessions worksh
 La sélection des workshop à venir se fait par vote.
 Les workshops sont enregistrés, pour que les absents puissent les revoir :)
 
+- [Ca se passe où ?](#ca-se-passe-où-)
+- [Prérequis](#prérequis)
+- [Fonctionnement de la board](#fonctionnement-de-la-board)
+- [Le système de vote](#le-système-de-vote)
+- [Je veux proposer un Workshop !](#je-veux-proposer-un-workshop-)
+- [Enregistrer une session](#enregistrer-une-session)
+- [Outils](#outils)
+
 ## Ca se passe où ?
 Sur appear.in: [https://appear.in/u/workshop-alqemist](https://appear.in/u/workshop-alqemist)
 
+
 ## Prérequis
 Installer l'extension nav [ZenHub](https://www.zenhub.com/) pour avoir accès à la [board](#boards)
+
 
 ## Fonctionnement de la board
 
@@ -33,11 +43,13 @@ Le Workshop programmé pour la session N+2
 #### Colonne "Week + 1":
 Le Workshop programmé pour la session N+1
 
+
 ## Le système de vote
 Le choix des prochains workshop se fait via un système de vote, par les reactions Github sur les issues :
 ![Vote](/images/voting.png)
 
 Vote = :+1:
+
 
 ## Je veux proposer un Workshop !
 Il est possible de proposer un Workshop dont on veut être le presenter, où que l'on aimerait voir être présenté par quelqu'un d'autre.
@@ -47,6 +59,7 @@ Il suffit de créer une issue, avec quelques lignes de description, et de le met
 - BackOffice ou FrontOffice
 - Un label de duration
 - Un label de Type
+
 
 ## Enregistrer une session
 C'est le presenter du workshop qui doit être en charge de l'enregistrement.
@@ -69,7 +82,6 @@ Via `Fichier -> Nouvel enregistrement de l'écran` il est possible d'enregistrer
 
 **NOTE:** cette manip n'impacte pas l'utilisation normale de votre input / output audio 
 
-## Outils
-vidéo + partage d'écran : https://appear.in/ à tester
 
+## Outils
 capture vidéo : https://obsproject.com/ à tester
